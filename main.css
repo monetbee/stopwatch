@@ -1,0 +1,26 @@
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+h3 {
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+
+#timer {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+
+.buttons button {
+  font-size: 20px;
+  margin: 0 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
